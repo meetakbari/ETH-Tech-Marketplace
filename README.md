@@ -1,5 +1,10 @@
 # ETH-Tech-Marketplace
 
+### Prerequisites
++ Node.js(npm) installed on your local machine
++ MetaMask Chrome extension installed in your browser
++ Ganache, you can download from [here](https://trufflesuite.com/ganache/)
+
 ### To run the project:
 1. `git clone https://github.com/meetakbari/ETH-Tech-Marketplace.git`
 2. `cd ETH-Tech-Marketplace`
